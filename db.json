@@ -3,19 +3,19 @@
   "Condition":[
    {
     "id":1,
-    "Name":"Headaches",
+    "Name":"headache",
     "Desc":"Headaches are common medical complaints. For most, a headache is an annoyance that comes and goes. But when they start to occur regularly, studies, work, family and social activities can be affected. It can also cause significant concern and anxiety.Fortunately, most headaches are not an indication of a serious medical condition and can be treated. However, medical attention should be sought for frequent or severe headaches.",
     "url":"https://www.skh.com.sg/patient-care/conditions-treatments/headaches"  
   },
   {
     "id":2,
-    "Name":"Gallstones",
+    "Name":"gallstones",
     "Desc":"Gallstones generally refer to stones that are found in the gallbladder. Gallstones are more common in females than males, in persons that are overweight or those with hemolytic diseases. Gallstones form when the amount of bile and other fluid in the gallbladder become unbalanced. When this happens, some of the chemicals become solid and form stones.",
     "url":"https://www.skh.com.sg/patient-care/conditions-treatments/gallstones"  
   },
 {
   "id":3,
-  "Name":"Kidney Stones",
+  "Name":"kidney stones",
   "Desc":"A kidney stone is composed of crystals formed by chemicals that separate from the urine that builds up in the kidney.The most common type of stone contains calcium oxalate or calcium phosphate. A less common type of stone, caused by infection in the urinary tract, is called a struvite stone. Other rarer stones include uric acid stones and cystine stones",
   "url":"https://www.skh.com.sg/patient-care/conditions-treatments/kidney-stones"  
 }]
